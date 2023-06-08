@@ -4,22 +4,17 @@ Cypher-AI is an advanced chat bot powered by state-of-the-art AI technologies. I
 
 ## Screenshots
 
-### Welcome Page
-<img src="screenshots/welcome_page.png" width="150">
+### Welcome Page and Themes
+<img src="screenshots/welcome_page.png" width="170"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/theme_1.png" width="170"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/theme_2.png" width="170"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/theme_3.png" width="170">
 
-### Themes
-<img src="screenshots/theme_1.png" width="150">
-<img src="screenshots/theme_2.png" width="150">
-<img src="screenshots/theme_3.png" width="150">
-
-### Text Questions
-<img src="screenshots/text_questions.png" width="150">
-
-### Text Answers
-<img src="screenshots/text_answers.png" width="150">
+### Text Questions and Text Answers
+<img src="screenshots/text_questions.png" width="170"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/text_answers.png" width="170">
 
 ### Image Generation
-<img src="screenshots/image_generation.png" width="150">
+<img src="screenshots/image_generation.png" width="170">
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

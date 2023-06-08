@@ -1,17 +1,22 @@
-# ai_chatter
+# Cypher-AI - A ChatGPT based chat bot
 
-A new Flutter project.
+Cypher-AI is an advanced chat bot powered by state-of-the-art AI technologies. It leverages the power of [GPT 3.5](https://openai.com/) for natural language processing and conversational capabilities. Additionally, it utilizes [Dall-E](https://dalle-mini.lindelof.space/) image generation to provide a rich multimedia experience.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Welcome Page
+<img src="screenshots/welcome_page.png" width="150">
 
-A few resources to get you started if this is your first Flutter project:
+### Themes
+<img src="screenshots/theme_1.png" width="150">
+<img src="screenshots/theme_2.png" width="150">
+<img src="screenshots/theme_3.png" width="150">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Text Questions
+<img src="screenshots/text_questions.png" width="150">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Cypher_AI" 
+### Text Answers
+<img src="screenshots/text_answers.png" width="150">
+
+### Image Generation
+<img src="screenshots/image_generation.png" width="150">

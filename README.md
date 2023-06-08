@@ -20,3 +20,17 @@ Cypher-AI is an advanced chat bot powered by state-of-the-art AI technologies. I
 
 ### Image Generation
 <img src="screenshots/image_generation.png" width="150">
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+Generate your own OpenAI API keys to use with the app. They can be found on the [Open AI Website](https://platform.openai.com/account/api-keys). Additional documentation for them [here](https://platform.openai.com/docs/introduction/key-concepts).
+Once properly set up, put the key in the "secrets.dart" file.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
